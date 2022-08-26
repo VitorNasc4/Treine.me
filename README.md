@@ -1,5 +1,4 @@
 # Treine.me
-<<<<<<< HEAD
 
 Landing page with navigate bar and whatsapp button.
 
@@ -16,8 +15,7 @@ Landing page with navigate bar and whatsapp button.
  
 ## Demonstration
 
-![Landing page print](https://imgur.com/a/n0yslx8)
-
+![Print](https://user-images.githubusercontent.com/101666833/186968848-2a3224e7-8ffb-4f77-a1d9-02739b599c68.png)
 
 ## References
 
