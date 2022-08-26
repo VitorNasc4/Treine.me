@@ -1,4 +1,5 @@
 # Treine.me
+<<<<<<< HEAD
 
 Landing page with navigate bar and whatsapp button.
 
@@ -25,10 +26,7 @@ Landing page with navigate bar and whatsapp button.
 
 
 ## Learnings
-
-O que você aprendeu construindo esse projeto? Quais desafios você enfrentou e como você superou-os?
-
-
+This was one of my first projects... I learned how to personalizate a HTML page!
 
 
 ## 🚀 About me
@@ -51,3 +49,11 @@ I study software development since January 2022 and can work both on Back-end an
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-marciano/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/marciano_vitor)
+=======
+
+## Descrição
+Homepage criada a partir do Figma disponibilizado no Stage 02 do programa Rocketseat Explorer
+
+## Links úteis
+[Figma da homepage](https://www.figma.com/file/rkDOHGPwwFtBNqEdHSuQPd/Projeto-02---Explorer?node-id=0%3A1)
+>>>>>>> 7527aa3a3912da82faceaa98e63c8572874c9557
